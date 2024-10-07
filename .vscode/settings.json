@@ -1,0 +1,5 @@
+{
+    "pasteImage.basePath": "${currentFileDir}/Slike",
+    "pasteImage.path": "${currentFileDir}/Slike",
+    "pasteImage.prefix": "Slike/"
+}
